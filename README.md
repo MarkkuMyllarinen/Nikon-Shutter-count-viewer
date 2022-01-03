@@ -1,4 +1,4 @@
-NIKON Shutter count viever
+NIKON Shutter count viewer
 =
 
 **Tested and works with Nikon D3300**
